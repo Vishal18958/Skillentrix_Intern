@@ -1,0 +1,8 @@
+Time (min),Driving Mode,Current (A),Duration (min),SOC (%),Voltage (V),Temperature (°C),BMS Status,Warnings
+5,Acceleration,80,5,66.67,360,30.8,NORMAL,None
+15,Cruising,30,10,56.67,360,31.1,NORMAL,None
+20,Regenerative Braking,-40,5,63.33,360,31.5,NORMAL,None
+30,Cruising,30,10,53.33,360,31.8,NORMAL,None
+35,Acceleration,80,5,40.0,360,32.6,NORMAL,None
+40,Regenerative Braking,-50,5,48.33,360,33.1,NORMAL,None
+50,Cruising,20,10,41.67,360,33.3,NORMAL,None
